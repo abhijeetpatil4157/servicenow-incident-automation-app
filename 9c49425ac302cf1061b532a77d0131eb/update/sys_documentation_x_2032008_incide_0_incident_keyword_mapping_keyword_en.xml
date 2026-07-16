@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="keyword" label="Keyword" language="en" table="x_2032008_incide_0_incident_keyword_mapping">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>keyword</element>
+            <help/>
+            <hint/>
+            <label>Keyword</label>
+            <language>en</language>
+            <name>x_2032008_incide_0_incident_keyword_mapping</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-16 06:31:25</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Keyword</sys_name>
+            <sys_package display_value="Incident Automation" source="x_2032008_incide_0">9c49425ac302cf1061b532a77d0131eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Incident Automation">9c49425ac302cf1061b532a77d0131eb</sys_scope>
+            <sys_update_name>sys_documentation_x_2032008_incide_0_incident_keyword_mapping_keyword_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-16 06:31:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
